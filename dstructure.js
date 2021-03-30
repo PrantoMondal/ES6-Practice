@@ -2,5 +2,5 @@ const person = {name: 'Jack william', age: 17, job: 'Facebooker', address: "Kotc
 
 const gfName = person.gfName;
 
-
+//let
 console.log(gfName);
